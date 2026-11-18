@@ -1,0 +1,11 @@
+<Bindings>
+	<Binding name="JUJU_TOGGLE" header="JUJU" category="ADDONS">
+		Juju_Toggle()
+	</Binding>
+	<Binding name="JUJU_TOGGLE_CHANNELS" category="ADDONS">
+		Juju_ToggleChannels()
+	</Binding>
+	<Binding name="JUJU_BOX" category="ADDONS">
+		Juju_ToggleBox()
+	</Binding>
+</Bindings>

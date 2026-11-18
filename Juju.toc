@@ -1,0 +1,28 @@
+## Interface: 16001
+## Title: Juju
+## Notes: Talk like a true troll, mon. Turns the English you type into troll speech before it is sent. Made for Troll characters on RP realms.
+## Author: Azrolicious
+## Version: 1.0.0
+## Category: Roleplay
+## IconTexture: Interface\Icons\Racial_Troll_Berserk
+## OptionalDeps: Questie
+## SavedVariables: JujuDB
+## SavedVariablesPerCharacter: JujuCharDB
+## AddonCompartmentFunc: Juju_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: Juju_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: Juju_OnAddonCompartmentLeave
+
+Lexicon.lua
+Words.lua
+Spell.lua
+Translator.lua
+Juju.lua
+Chat.lua
+Box.lua
+QuestieHook.lua
+Mobs.lua
+Places.lua
+People.lua
+Emotes.lua
+BoxEmotes.lua
+Options.lua
